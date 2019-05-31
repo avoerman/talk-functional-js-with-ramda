@@ -3,6 +3,9 @@ https://slides.com/alexvoerman/functional-javascript#/
 
 # More Examples / Links
 
+**Tool used for Live Computation / Sandboxing**
+* https://quokkajs.com/ - Quokka.js
+
 **Functional Programming**
 * www.youtube.com/watch?v=qtsbZarFzm8 - Good talk by Anjana Vakil on Function Programming
 * https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339 - Understanding currying in JavaScript
