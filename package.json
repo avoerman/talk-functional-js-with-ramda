@@ -1,0 +1,8 @@
+{
+  "name": "functional-js-with-ramda",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^1.17.1",
+    "ramda": "^0.26.1"
+  }
+}
